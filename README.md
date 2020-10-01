@@ -1,9 +1,9 @@
 ### Hi everyone 👋
 
-![](https://komarev.com/ghpvc/?username=pavponn)  
+![](https://komarev.com/ghpvc/?username=pavponn&style=flat-square&color=green)  
 [![Email Badge!](https://img.shields.io/badge/-Mail-white?style=flat-square&logo=gmail)](mailto:pavponn@gmail.com)
 [![Github Badge!](https://img.shields.io/badge/-pavponn-gold?style=flat-square&logo=github&logoColor=black&link=https://github.com/pavponn/)](https://www.github.com/pavponn/)
-[![Linkedin Badge!](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/pavponn/)](https://www.linkedin.com/in/pavponn/)
+[![Linkedin Badge!](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pavponn/)](https://www.linkedin.com/in/pavponn/)
 
 <!--
 **pavponn/pavponn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
