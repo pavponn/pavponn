@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat-square&logo=flask&logoColor=white&color=blue)
 ## Stats
 ![Pavel's github stats](https://github-readme-stats.vercel.app/api?username=pavponn&count_private=true&how_icons=true&include_all_commits=true&hide=contribs&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavponn&count_private=true&layout=compact&langs_count=6&include_all_commits=true&theme=default)](https://github.com/pavponn/pavponn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavponn&count_private=true&layout=compact&langs_count=7&include_all_commits=true&theme=default&hide=jupyter%20notebook)](https://github.com/pavponn/pavponn)
